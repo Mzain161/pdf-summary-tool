@@ -24,6 +24,13 @@ An AI-based tool to **summarize PDF files** and extract the **top keywords** wit
 
 ---
 
+## 🙌 Support My Work
+
+If this project helped you or inspired you in any way, you can support me below.  
+Your support helps me continue learning and building smarter tools ❤️
+
+[![Buy Me a Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-mzain161-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mzain161)
+
 ## 📦 Installation
 
 1. Clone this repo:
